@@ -8,7 +8,7 @@ utilizando o sensor de movimento do aparelho.
 
 #Project Profile
 - Instalação das bibliotecas Shake e Torch
-- Criação de apk para download (https://justbeamit.com/xzhdp)
+- Criação de apk para testes
 - Utilização do Switch para ligar/desligar o flash
 - useState
 - useEffect
