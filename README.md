@@ -12,6 +12,7 @@ utilizando o sensor de movimento do aparelho.
 - Utilização do Switch para ligar/desligar o flash
 - useState
 - useEffect
-- Torch
 - RNShake
+- Torch
+
 
